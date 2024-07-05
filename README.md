@@ -1,6 +1,9 @@
 # Gdv
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.7.
+Use these commands to setup the environment
+npm install -g @angular/cli
+npm install @angular-devkit/build-angular 
 
 ## Development server
 
